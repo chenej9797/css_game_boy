@@ -1,0 +1,17 @@
+{
+  "name": "gameboy",
+  "homepage": "https://github.com/chenej9797/chenej9797",
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
+}
