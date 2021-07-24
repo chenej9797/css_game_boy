@@ -1,0 +1,31 @@
+{
+  "name": "gameboy",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "scripts": {
+    "build": "webpack --mode production"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chenej9797/GameBoy.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chenej9797/GameBoy/issues"
+  },
+  "homepage": "https://github.com/chenej9797/GameBoy#readme",
+  "devDependencies": {
+    "css-loader": "^6.2.0",
+    "html-webpack-plugin": "^5.3.2",
+    "mini-css-extract-plugin": "^2.1.0",
+    "node-sass": "^6.0.1",
+    "sass": "^1.36.0",
+    "sass-loader": "^12.1.0",
+    "style-loader": "^3.2.1",
+    "uglifyjs-webpack-plugin": "^2.2.0",
+    "webpack": "^5.46.0",
+    "webpack-cli": "^4.7.2"
+  }
+}
