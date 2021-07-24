@@ -1,5 +1,5 @@
 {
-  "name": "gameboy",
+  "name": "css_game_boy",
   "version": "1.0.0",
   "description": "",
   "private": true,
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/chenej9797/GameBoy.git"
+    "url": "git+https://github.com/chenej9797/css_game_boy.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/chenej9797/GameBoy/issues"
+    "url": "https://github.com/chenej9797/css_game_boy/issues"
   },
-  "homepage": "https://github.com/chenej9797/GameBoy#readme",
+  "homepage": "https://github.com/chenej9797/css_game_boy#readme",
   "devDependencies": {
     "css-loader": "^6.2.0",
     "html-webpack-plugin": "^5.3.2",
